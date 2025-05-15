@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
   },
   image:{
 width: '100%',
-heght: '100',
+heght: '100%',
 flex: 1,
 resizeMode: 'cover',
 justifyContent: 'center',
@@ -35,6 +35,6 @@ justifyContent: 'center',
     fontSize: 42,
     fontWeigth: 'bold',
     textAlign: 'center',
-    backgroundColor: 'rgba(0,0,0,0.5)',
+    backgroundColor: 'rgba(0,0,0,0.2)',
   }
 })
