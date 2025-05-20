@@ -17,7 +17,7 @@ const app = () => {
       </Link>
 
       </ImageBackground>
-      <Text>Coffee shop</Text>
+      <Text style={{marginHorizontal:'auto'}}>Coffee shop</Text>
     </View>
   )
 }
