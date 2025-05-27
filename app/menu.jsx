@@ -37,6 +37,6 @@ export default function MenuScreen() {
   )
 }
 
-function createStyles(theme, colorScheme) {
+function createStyles(theme, colorSchemes) {
   return StyleSheet.create({})
 }
