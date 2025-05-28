@@ -38,5 +38,12 @@ export default function MenuScreen() {
 }
 
 function createStyles(theme, colorSchemes) {
-  return StyleSheet.create({})
+  return StyleSheet.create({
+    contentContainer:{
+      paddingTop: 10,
+      paddingBottom: 20,
+      paddingHorizontal: 12,
+      backgroundColor: theme.background, 
+    }
+  })
 }
