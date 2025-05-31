@@ -42,7 +42,7 @@ function createStyles(theme, colorSchemes) {
     contentContainer:{
       paddingTop: 10,
       paddingBottom: 20,
-      paddingHorizontal: 10,
+      paddingHorizontal: 11,
       backgroundColor: theme.background, 
     }
   })
