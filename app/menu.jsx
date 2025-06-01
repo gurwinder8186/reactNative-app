@@ -41,7 +41,7 @@ function createStyles(theme, colorSchemes) {
   return StyleSheet.create({
     contentContainer:{
       paddingTop: 10,
-      paddingBottom: 20,
+      paddingBottom: 22,
       paddingHorizontal: 11,
       backgroundColor: theme.background, 
     }
