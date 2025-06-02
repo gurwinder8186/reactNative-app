@@ -42,7 +42,7 @@ justifyContent: 'center',
     fontWeigth: 'bold',
     textAlign: 'center',
     backgroundColor: 'rgba(0,0,0,0.2)',
-    marginBottom: 120,
+    marginBottom: 115,
   },
   link: {
     color: 'white',
